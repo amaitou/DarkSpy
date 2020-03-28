@@ -38,6 +38,10 @@ If You Need Any Help , Just Press The "help" Command .
 
 # Screenshots
 
+![1](https://user-images.githubusercontent.com/49293816/77834650-76065f80-7146-11ea-95b6-41a3480485d8.png)
+![2](https://user-images.githubusercontent.com/49293816/77834655-80c0f480-7146-11ea-9735-2577b6098a02.png)
+![3](https://user-images.githubusercontent.com/49293816/77834667-93d3c480-7146-11ea-90da-4fa02f0d7445.png)
+
 # Disclaimer
 
 This program must be used for legal purposes! I am not responsible for anything you do with it.
