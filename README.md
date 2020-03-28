@@ -1,8 +1,6 @@
 
 # Amlele Backdoor
 
-# Amlele Backdoor
-
 Amlele Backdoor is an open source Backdoor/Reverse-Shell For Each Linux And Windows Systems Made In Python3 Which Contains Limited Features .
 
 # Installation 
