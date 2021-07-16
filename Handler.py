@@ -187,7 +187,8 @@ def Send_Commands(Connection) :
 			print (green + "[^] Author      : " + endc + "Amine Ait Ouazghour" + endc)
 			print (green + "[^] Github      : " + endc + "https://github.com/Lelouche01" + endc)
 			print (green + "[^] Twitter     : " + endc + "https://twitter.com/Lelouche01" + endc)
-			print (green + "[^] Facebook    : " + endc + "https://www.facebook.com/Lelouche01" + endc)
+			print (green + "[^] Facebook    : " + endc + "https://www.facebook.com/Lelouche0x1" + endc)
+			print (green + "[^] Instagram    : " + endc + "https://www.instagram.com/Lelouche0x1/" + endc)
 			print("")
 
  
