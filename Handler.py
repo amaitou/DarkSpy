@@ -53,7 +53,7 @@ def Banner () :
 													 
 		\033[92m ~{\033[0m Quote  \033[92m: \033[0mLet's Pown \033[92m}~
 		\033[92m ~{\033[0m AMLELE \033[92m: \033[0mVersion 1.0 \033[92m}~
-		\033[92m ~{\033[0m Github \033[92m: \033[0mhttps://github.com/AmineLelouche \033[92m}~                                          
+		\033[92m ~{\033[0m Github \033[92m: \033[0mhttps://github.com/amaitou \033[92m}~                                          
 		''' + endc)
 
 def Socket_Creation () :
@@ -185,10 +185,10 @@ def Send_Commands(Connection) :
 			print("")
 			print (green + "[^] Version     : " + endc + "1.0.0" + endc)
 			print (green + "[^] Author      : " + endc + "Amine Ait Ouazghour" + endc)
-			print (green + "[^] Github      : " + endc + "https://github.com/Lelouche01" + endc)
-			print (green + "[^] Twitter     : " + endc + "https://twitter.com/Lelouche01" + endc)
-			print (green + "[^] Facebook    : " + endc + "https://www.facebook.com/Lelouche0x1" + endc)
-			print (green + "[^] Instagram    : " + endc + "https://www.instagram.com/Lelouche0x1/" + endc)
+			print (green + "[^] Github      : " + endc + "https://github.com/amaitou" + endc)
+			print (green + "[^] Twitter     : " + endc + "https://twitter.com/amait0u" + endc)
+			print (green + "[^] Facebook    : " + endc + "https://www.facebook.com/amaitou" + endc)
+			print (green + "[^] Instagram    : " + endc + "https://www.instagram.com/amait0u/" + endc)
 			print("")
 
  
