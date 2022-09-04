@@ -24,12 +24,13 @@ Actually This Program has Several Features Such As :
 * Get The Machine Infos
 * Download Files Over Internet 
 
-# About The Author
+## Contact Me
 
-For Any Questions You Can Find Me on This Platforms :
+* [Twitter][_1]
+* [Instagram][_2]
 
-* Twitter : https://twitter.com/amait0u
-* Instagram : https://www.instagram.com/amait0u
+[_1]: https://twitter.com/amait0u
+[_2]: https://www.instagram.com/amait0u
 
 # Help
 
