@@ -36,9 +36,9 @@ If You Need Any Help , Just Press The "help" Command .
 
 # Screenshots
 
-![1](https://user-images.githubusercontent.com/49293816/77834650-76065f80-7146-11ea-95b6-41a3480485d8.png)
-![2](https://user-images.githubusercontent.com/49293816/77834655-80c0f480-7146-11ea-9735-2577b6098a02.png)
-![3](https://user-images.githubusercontent.com/49293816/77834667-93d3c480-7146-11ea-90da-4fa02f0d7445.png)
+![Screenshot from 2022-09-05 18-48-37](https://user-images.githubusercontent.com/49293816/188497685-ed444070-036e-4e95-ad66-9b86dc25ca76.png)
+![Screenshot from 2022-09-05 18-49-03](https://user-images.githubusercontent.com/49293816/188497695-388313cb-8c6d-4fc5-b734-43339ef30fbe.png)
+![Screenshot from 2022-09-05 18-50-54](https://user-images.githubusercontent.com/49293816/188497702-df5cb7fe-2603-45e0-974e-cc3abd91b5c6.png)
 
 # Disclaimer
 
