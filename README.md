@@ -1,7 +1,7 @@
 
-# Amlele Backdoor
+# DarkSpy
 
-Amlele Backdoor is One-Client Open Source Backdoor/Reverse-Shell For Each Linux And Windows Systems Made In Python3 Which Contains Limited Features .
+DarkSpy is One-Client Open Source Backdoor/Reverse-Shell For Both Linux And Windows Systems Written With Python3.
 
 # Installation 
 
@@ -9,11 +9,9 @@ You Will Need :
 
 * Python 3.6-3.7-3.8
 * Computer
-* Download The Repository Via Github eg : git clone https://github.com/Lelouche01/4ML3L3-Backdoor .
+* Download The Repository Via Github eg : git clone https://github.com/Lelouche01/DarkSpy .
 
 # Features 
-
-Actually This Program has Several Features Such As :
 
 * Send Commands To A Client
 * Capture Screenshot
