@@ -9,7 +9,7 @@ You Will Need :
 
 * Python 3.6-3.7-3.8
 * Computer
-* Download The Repository Via Github eg : git clone https://github.com/Lelouche01/DarkSpy .
+* Download The Repository Via Github eg : git clone https://github.com/amaitou/DarkSpy .
 
 # Features 
 
