@@ -340,7 +340,7 @@ def Send_Commands(Connection) :
 
 				if os.access(Save_As , os.F_OK) and os.path.isfile(Save_As) :
 				
-					print(yellow + "[+] " + endc + "File Has Been Downloaded Succefully " )
+					print(yellow + "[+] " + endc + "File Has Been Downloaded Successfully " )
 					time.sleep(0.5)
 					print(green + "[+] " + endc + "Path : {} ".format(Save_As))
 					print(green + "[+] " + endc + "Size : {} ".format(os.path.getsize(Save_As)) + "Bytes")
