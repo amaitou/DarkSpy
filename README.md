@@ -7,7 +7,7 @@ DarkSpy is One-Client Open Source Backdoor/Reverse-Shell For Both Linux And Wind
 
 You Will Need :
 
-* Python 3.6-3.7-3.8
+* Python 3.6+
 * Computer
 * Download The Repository Via Github eg : git clone https://github.com/amaitou/DarkSpy .
 
