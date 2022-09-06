@@ -1,5 +1,5 @@
 ----------------
-![tglo209-reverse](https://user-images.githubusercontent.com/49293816/188543427-3e4115ce-40a9-4db9-bdfb-7809e3f88f04.png)
+![understanding-reverse-shells](https://user-images.githubusercontent.com/49293816/188544238-817ee9ea-3fa0-49b9-8b6e-904a835c7110.jpg)
 
 
 ----------------
