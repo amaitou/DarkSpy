@@ -38,6 +38,7 @@ else :
 	yellow = ''
 	blue = ''
 	endc = ''
+	underline = ''
 
 def Banner () :
  

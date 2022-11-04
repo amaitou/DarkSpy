@@ -83,7 +83,7 @@ def main () :
 				s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 				s.setblocking(1)
 				
-				Host , Port = "192.168.8.132" , 4444
+				Host , Port = "0.0.0.0" , 4444
 				 
 			except socket.error as e :
 				
