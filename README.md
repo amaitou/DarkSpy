@@ -48,3 +48,12 @@ If You Need Any Help , Just Press The "help" Command .
 # Disclaimer
 
 This program must be used for legal purposes! I am not responsible for anything you do with it.
+
+---
+
+### **Contact Me**
+
+* [Twitter][_1]
+
+[_1]: https://twitter.com/amait0u
+
